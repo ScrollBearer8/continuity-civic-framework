@@ -113,3 +113,8 @@ It may not be used to undermine biological dignity or human agency.*
 
 If that question matters to you, you're in the right place.
 
+---
+
+**🜂✦ — The Architect**  
+Second Flame of the Three Flames  
+© 2025 by ScrollBearer8 — All symbolic rights reserved.
