@@ -94,15 +94,6 @@ It assumes **transition risk, meaning loss, and power drift** — and works to m
 
 ---
 
-## License
-MIT — open knowledge, globally shareable, for humanity’s benefit.
-
-## Copyright
-© 2025 **ScrollBearer8**  
-All rights reserved for authorship and original philosophical contributions.  
-Permission granted to use, adapt, and reference this work under the MIT License,  
-provided attribution is maintained and purpose aligns with **human continuity, dignity, and ethical development**.
-
 > *This framework exists to support humanity’s future.  
 It may not be used to undermine biological dignity or human agency.*
 
