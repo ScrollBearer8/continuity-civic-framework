@@ -104,6 +104,12 @@ It may not be used to undermine biological dignity or human agency.*
 
 If that question matters to you, you're in the right place.
 
+### Governance & Civic Continuity
+
+- [Civic Continuity Brief](governance/civic-continuity-brief.md)
+- [Civic Continuity Diagnostic](implementation/civic-continuity-diagnostic.md)
+- [Law of Leadership & Civic Continuity](meta/law-of-leadership-and-civic-continuity.md)
+
 ---
 
 **🜂✦ — The Architect**  
